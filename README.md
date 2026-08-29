@@ -1,4 +1,4 @@
-# Interview Prep Copilot
+# Coachbot
 
 A multimodal GenAI assistant for technical interview prep, resume review,
 and study help. Built with LangChain, LangGraph, and FAISS. Streamlit is
